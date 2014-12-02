@@ -1,0 +1,3 @@
+[submodule "jquery.inputmask"]
+	path = jquery.inputmask
+	url = https://github.com/RobinHerbots/jquery.inputmask

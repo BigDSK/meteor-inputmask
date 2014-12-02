@@ -1,0 +1,9 @@
+{
+  "name": "inputmask",
+  "description": "jquery.inputmask is a jQuery plugin which create an input mask.",
+  "homepage": "https://github.com/BigDSK/meteor-inputmask",
+  "author": "Dennis Keller <dennis@bigd.us>",
+  "version": "3.1.42",
+  "git": "https://github.com/BigDSK/meteor-inputmask.git",
+  "packages": {}
+}
